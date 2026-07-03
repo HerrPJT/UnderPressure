@@ -2,7 +2,7 @@
 
 A Machine Learning project analyzing how daily digital habits — screen time, sleep, notifications, caffeine intake — relate to stress levels, using a sample of 15,000 individuals.
 
-> Project for the *Computational Learning* course, Licenciatura em Engenharia Eletrotécnica e de Computadores, Faculdade de Ciências e Tecnologia, Universidade de Coimbra.
+> Project for the *Machine Learning* course, Licenciatura em Engenharia Eletrotécnica e de Computadores, Faculdade de Ciências e Tecnologia, Universidade de Coimbra.
 
 **Authors**
 - Pedro José Carvalho Tomás — Nº2023211605 — uc2023211605@student.uc.pt
